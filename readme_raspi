@@ -1,4 +1,7 @@
 # Add SSH Key to Git account 
   https://help.github.com/en/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
 
-#  
+#  How to check raspi model
+   cat /proc/device-tree/model
+   Output :
+   Raspberry Pi 3 Model B Rev 1.2
